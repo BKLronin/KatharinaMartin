@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Rajdhani-Bold';
+   font-display: swap;
+   src: url('Rajdhani-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Rajdhani-Regular';
+   font-display: swap;
+   src: url('Rajdhani-Regular/font.ttf');
+}
