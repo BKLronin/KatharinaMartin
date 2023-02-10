@@ -4,3 +4,6 @@ project.mobirise
 *.mobirise_history
 .DS_Store
 .DS_Store
+.DS_Store
+.DS_Store
+publish-hashes.json
